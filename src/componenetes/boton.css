@@ -1,0 +1,28 @@
+.contenedor-principal{
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    font: Roboto, sans-serif;
+    color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(74, 187, 149);
+}
+
+.boton-click{
+    background-color: lightgreen;
+}
+
+.boton-reiniciar{
+    background-color: rgb(201, 169, 169);
+
+}
